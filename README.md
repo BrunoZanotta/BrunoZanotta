@@ -63,7 +63,7 @@
 - **Controle de Versão**: [Git](https://git-scm.com/)
 
 ### 🔹 SRE – Observabilidade e Confiabilidade
-- **Monitoramento**: [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/)
+- **Monitoramento**: [Grafana](https://grafana.com/)
 - **Logs e Alertas**: [Kibana](https://www.elastic.co/kibana/), [Loki](https://grafana.com/oss/loki/)
 - **Performance**: [JMeter](https://jmeter.apache.org/)
 - **Métricas**: SLA, SLO, SLI
