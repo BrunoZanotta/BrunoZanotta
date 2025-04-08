@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Bruno Zanotta</h1>
 
 <p align="center">
-  QA Engineer | Test Automation | DevOps | SRE | Agile 
+  QA Engineer | Test Automation | QA Lead | SDET
 </p>
 
 ---
