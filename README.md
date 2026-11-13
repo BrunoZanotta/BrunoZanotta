@@ -1,21 +1,21 @@
 <h1 align="center">Bruno Zanotta</h1>
 
-## About me
+## Sobre mim
 
-Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil.
+Engenheiro sênior de automação de QA / SDET, com 14+ anos em qualidade de software, baseado em Porto Alegre, Brasil.
 
-## Technical skills & expertise
+## Habilidades técnicas
 
 - Playwright (TypeScript)
 - Cypress
-- Java with REST Assured and TestNG
-- k6 for performance testing
-- Appium and BrowserStack for mobile
-- OpenAPI contract testing
-- Allure, ReportPortal, and Mochawesome
-- CI/CD with GitHub Actions and Azure DevOps
+- Java com REST Assured e TestNG
+- k6 para testes de performance
+- Appium e BrowserStack para mobile
+- Testes de contrato OpenAPI
+- Allure, ReportPortal e Mochawesome
+- CI/CD com GitHub Actions e Azure DevOps
 - Testim
-- AI-assisted testing: AI agents for test generation and self-healing
+- Testes assistidos por IA: agentes de IA para geração de testes e autocorreção
 
 <p align="left">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -36,9 +36,9 @@ Senior QA Automation Engineer / SDET with 14+ years in software quality, based i
   <img alt="Testim" src="https://img.shields.io/badge/Testim-5B4DFF?style=for-the-badge"/>
 </p>
 
-## Areas of interest
+## Áreas de interesse
 
-- AI in testing
-- Performance engineering
-- Contract testing
-- Quality strategy
+- IA em testes
+- Engenharia de performance
+- Testes de contrato
+- Estratégia de qualidade
