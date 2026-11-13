@@ -1,106 +1,65 @@
-<h1 align="center">Olá! 👋 Eu sou Bruno Zanotta</h1>
+<h1 align="center">Bruno Zanotta</h1>
 
 <p align="center">
-  QA Engineer | Test Automation | QA Lead | SDET
+  <strong>Senior QA Automation Engineer / SDET</strong><br>
+  Porto Alegre, Brazil · 14+ years in software quality
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-zanotta-qa/">LinkedIn</a>
+</p>
 
-🧪 Profissional com mais de 10 anos de experiência em Qualidade de Software, atuando em projetos de alta criticidade e grande escala. Tenho ampla vivência em testes manuais e automatizados (UI e API), infraestrutura como código, integração contínua (CI/CD) e monitoramento de aplicações em produção.
+Portfolio header for QA automation and SDET work, linked from Fiverr and Upwork. I automate web, API, and mobile tests and run them in CI, including OpenAPI contract checks and AI-assisted test generation.
 
-👨‍💻 Atuo fortemente com metodologias ágeis como Scrum e Kanban, promovendo ciclos de entrega contínuos, eficientes e com foco em valor ao cliente. Como líder técnico em QA, auxiliei times a estruturar pipelines de automação, definir estratégias de testes e aumentar a cobertura automatizada, reduzindo falhas em produção e acelerando time-to-market.
+## Stack
 
-🚀 Sou movido por desafios, inovação e aprendizado contínuo. Acredito na colaboração entre times, na cultura DevOps e na engenharia de confiabilidade como pilares para construir softwares robustos, escaláveis e de alto valor agregado.
+- **Playwright (TypeScript)** and **Cypress**
+- **Java** with **REST Assured** and **TestNG**
+- **k6** for performance testing
+- **Appium** and **BrowserStack** for mobile
+- **OpenAPI** contract testing
+- **Allure**, **ReportPortal**, and **Mochawesome**
+- **CI/CD** with **GitHub Actions** and **Azure DevOps**
+- **AI-assisted testing:** [Testim](https://www.testim.io/), and AI agents for test generation and self-healing, as in [autonomous-testing-ui](https://github.com/BrunoZanotta/autonomous-testing-ui)
 
----
+## Experience
 
-🌎 **Encontre-me na web**
+- **SoftDesign** — Senior Software QA Specialist (current)
+- **Linx** — Built automation frameworks from scratch and set up OpenAPI contract governance
+- **SellersFunding**
+- **Accenture** — Tech lead on the Natura project
+- **DBServer** — Payment acquiring testing
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-zanotta-qa/)
+## Projects
 
----
+- [gorest-cypress-api](https://github.com/BrunoZanotta/gorest-cypress-api) — Cypress API tests with CI.
+- [autonomous-testing-ui](https://github.com/BrunoZanotta/autonomous-testing-ui) — Playwright, Page Object Model, staged CI, and AI agents for test generation and self-healing.
+- [petstore-api-tests](https://github.com/BrunoZanotta/petstore-api-tests) — Java, REST Assured, and OpenAPI contract tests. Allure report: [brunozanotta.github.io/petstore-api-tests](https://brunozanotta.github.io/petstore-api-tests/).
+- [mobile-test](https://github.com/BrunoZanotta/mobile-test) — Appium and Java on BrowserStack.
 
-## 💻 **Áreas de Interesse**
+Also on GitHub: [playwright_release](https://github.com/BrunoZanotta/playwright_release) (Playwright and TypeScript, grouped by release) and [k6-loadtest](https://github.com/BrunoZanotta/k6-loadtest) (k6 load test with checks, thresholds, and an HTML summary).
 
-### 🔍 **QA – Assegurando a Qualidade das Aplicações**
-- ✅ Testes Manuais: Funcionais, exploratórios e orientados a requisitos.
-- 🤖 Testes Automatizados: Com [Playwright](https://playwright.dev/), [Cypress](https://www.cypress.io/), [Selenium](https://www.selenium.dev/) e [Java](https://www.oracle.com/java/).
-- 🔌 Testes de API: Com [Postman](https://www.postman.com/), [RestAssured](https://rest-assured.io/).
-- 🚀 Testes de Performance: Usando [JMeter](https://jmeter.apache.org/) e dashboards em [Grafana](https://grafana.com/).
+## Work with me
 
-### ⚙️ **DevOps – Práticas para Entregas Eficientes**
-- 📦 Contêineres: [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/), [Kubernetes](https://kubernetes.io/).
-- 🔁 CI/CD: Pipelines automatizados com [Jenkins](https://www.jenkins.io/), [GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/).
-- 🔧 Versionamento: [Git](https://git-scm.com/), GitFlow, integração de testes nas esteiras de entrega.
+Available for contract work in QA automation and SDET engagements. [LinkedIn](https://www.linkedin.com/in/bruno-zanotta-qa/).
 
-### 🛡️ **SRE – Garantindo Confiabilidade e Estabilidade**
-- 📈 Monitoramento e Observabilidade: Com [Grafana](https://grafana.com/), [Kibana](https://www.elastic.co/kibana/), [Loki](https://grafana.com/oss/loki/).
-- 🧪 Resiliência: Testes com [JMeter](https://jmeter.apache.org/), métricas como throughput, tempo de resposta e erro.
-- 📊 Métricas SRE: SLA, SLO, SLI aplicados à jornada do software.
-- 🛠️ Pós-Incident Analysis: RCA, postmortems e aprendizado contínuo.
-
-### 🔄 **Metodologias Ágeis e Liderança**
-- 📌 Scrum: Participação ativa em cerimônias ágeis e condução de times QA.
-- 🔄 Kanban: Organização visual do fluxo de trabalho com foco em eficiência.
-- 🧭 Liderança Técnica: Mentoria, gestão de entregas QA e ponte entre times técnicos e de negócio.
-
----
-
-## 👨‍💻 **Conhecimentos Técnicos**
-
-### 🔹 QA – Qualidade de Software
-- **Linguagens**: [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Frameworks de Teste**: [JUnit](https://junit.org/junit5/), [TestNG](https://testng.org/), [Hamcrest](https://hamcrest.org/JavaHamcrest/)
-- **Automação**: [Playwright](https://playwright.dev/), [Cypress](https://www.cypress.io/), [Selenium](https://www.selenium.dev/)
-- **APIs**: [Postman](https://www.postman.com/), [RestAssured](https://rest-assured.io/)
-- **Relatórios**: [Allure](https://docs.qameta.io/allure/), [ExtentReports](https://github.com/extent-framework/extentreports-java)
-- **Performance**: [JMeter](https://jmeter.apache.org/)
-- **Gerenciamento de Testes**: [TestRail](https://www.gurock.com/testrail/), [Zephyr](https://www.getzephyr.com/), [Xray](https://www.getxray.app/), [Testmo](https://testmo.com/)
-
-### 🔹 DevOps – Entregas Contínuas e Automatizadas
-- **CI/CD**: [Jenkins](https://www.jenkins.io/), [GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
-- **Contêineres e Orquestração**: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
-- **Controle de Versão**: [Git](https://git-scm.com/)
-
-### 🔹 SRE – Observabilidade e Confiabilidade
-- **Monitoramento**: [Grafana](https://grafana.com/)
-- **Logs e Alertas**: [Kibana](https://www.elastic.co/kibana/), [Loki](https://grafana.com/oss/loki/)
-- **Performance**: [JMeter](https://jmeter.apache.org/)
-- **Métricas**: SLA, SLO, SLI
-- **Análise de Incidentes**: Diagnóstico, mitigação, postmortems
-
----
-
-## 🚀 Tecnologias e Ferramentas
+## Technologies
 
 <p align="left">
-  <!-- QA -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-F2D572?style=for-the-badge&logo=java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hamcrest-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Allure-E74430?style=for-the-badge&logo=allure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-  <!-- SRE -->
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="REST Assured" src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
+  <img alt="TestNG" src="https://img.shields.io/badge/TestNG-F2D572?style=for-the-badge&logo=java&logoColor=black"/>
+  <img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img alt="Appium" src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img alt="BrowserStack" src="https://img.shields.io/badge/BrowserStack-FF6A00?style=for-the-badge&logo=browserstack&logoColor=white"/>
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+  <img alt="Allure" src="https://img.shields.io/badge/Allure-E74430?style=for-the-badge"/>
+  <img alt="ReportPortal" src="https://img.shields.io/badge/ReportPortal-143E6A?style=for-the-badge&logo=reportportal&logoColor=white"/>
+  <img alt="Mochawesome" src="https://img.shields.io/badge/Mochawesome-F7DF1E?style=for-the-badge&logoColor=black"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img alt="Testim" src="https://img.shields.io/badge/Testim-5B4DFF?style=for-the-badge"/>
 </p>
-
----
-
-
-⭐ *“Software de qualidade se constrói com boas práticas, colaboração e foco no usuário.”*
