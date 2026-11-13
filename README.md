@@ -48,9 +48,7 @@
 
 ## 👨‍💻 **Conhecimentos Técnicos**
 
-- **Workflows de IA**
-- **Criação de servidores MCP (Model Context Protocol)**
-- **Criação de skills para agentes de IA**
+- **Inteligência Artificial**: Workflows de IA, Uso de MCPs, Automação de processos com IA, Criação de skills para agentes de IA
 
 ### 🔹 QA – Qualidade de Software
 - **Linguagens**: [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -69,7 +67,6 @@
 ### 🔹 SRE – Observabilidade e Confiabilidade
 - **Monitoramento**: [Grafana](https://grafana.com/)
 - **Logs e Alertas**: [Kibana](https://www.elastic.co/kibana/), [Loki](https://grafana.com/oss/loki/)
-- **Performance**: [JMeter](https://jmeter.apache.org/)
 - **Métricas**: SLA, SLO, SLI
 - **Análise de Incidentes**: Diagnóstico, mitigação, postmortems
 
