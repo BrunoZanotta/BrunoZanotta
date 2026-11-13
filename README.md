@@ -8,7 +8,7 @@
 
 ## About me
 
-Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil.
+Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil. I use AI-assisted testing: agents that generate and maintain test code, AI for test data generation, and AI-powered analysis of test results and flaky tests, with tools such as Testim.
 
 ## Technical skills & expertise
 
@@ -44,7 +44,7 @@ Senior QA Automation Engineer / SDET with 14+ years in software quality, based i
 
 ## Areas of interest
 
-- AI in testing
+- AI in testing: agents that generate and maintain test code, test data generation, analysis of test results and flaky tests, and tools such as Testim
 - Performance engineering
 - Contract testing
 - Quality strategy
