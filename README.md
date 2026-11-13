@@ -6,7 +6,7 @@
 
 ---
 
-🧪 Profissional com mais de 10 anos de experiência em Qualidade de Software, atuando em projetos de alta criticidade e grande escala. Tenho ampla vivência em testes manuais e automatizados (UI e API), infraestrutura como código, integração contínua (CI/CD) e monitoramento de aplicações em produção.
+🧪 Profissional com mais de 14 anos de experiência em Qualidade de Software, atuando em projetos de alta criticidade e grande escala. Tenho ampla vivência em testes manuais e automatizados (UI e API), infraestrutura como código, integração contínua (CI/CD) e monitoramento de aplicações em produção.
 
 👨‍💻 Atuo fortemente com metodologias ágeis como Scrum e Kanban, promovendo ciclos de entrega contínuos, eficientes e com foco em valor ao cliente. Como líder técnico em QA, auxiliei times a estruturar pipelines de automação, definir estratégias de testes e aumentar a cobertura automatizada, reduzindo falhas em produção e acelerando time-to-market.
 
