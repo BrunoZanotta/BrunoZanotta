@@ -1,5 +1,11 @@
 <h1 align="center">Bruno Zanotta</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-zanotta-qa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ## About me
 
 Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil.
