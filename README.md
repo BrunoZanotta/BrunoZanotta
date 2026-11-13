@@ -48,6 +48,10 @@
 
 ## 👨‍💻 **Conhecimentos Técnicos**
 
+- **Workflows de IA**
+- **Criação de servidores MCP (Model Context Protocol)**
+- **Criação de skills para agentes de IA**
+
 ### 🔹 QA – Qualidade de Software
 - **Linguagens**: [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Frameworks de Teste**: [JUnit](https://junit.org/junit5/), [TestNG](https://testng.org/), [Hamcrest](https://hamcrest.org/JavaHamcrest/)
