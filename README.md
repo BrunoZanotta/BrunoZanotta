@@ -48,7 +48,10 @@
 
 ## 👨‍💻 **Conhecimentos Técnicos**
 
-- **Inteligência Artificial**: Workflows de IA, Uso de MCPs, Automação de processos com IA, Criação de skills para agentes de IA
+### 🔹 IA – Inteligência Artificial
+- **Workflows**: Workflows de IA, Automação de processos com IA
+- **Ferramentas**: Uso de MCPs
+- **Agentes**: Criação de skills para agentes de IA
 
 ### 🔹 QA – Qualidade de Software
 - **Linguagens**: [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
