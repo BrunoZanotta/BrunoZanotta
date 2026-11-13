@@ -1,14 +1,8 @@
 <h1 align="center">Bruno Zanotta</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-zanotta-qa/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ## About me
 
-Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil. I use AI-assisted testing: agents that generate and maintain test code, AI for test data generation, and AI-powered analysis of test results and flaky tests, with tools such as Testim.
+Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil.
 
 ## Technical skills & expertise
 
@@ -44,7 +38,7 @@ Senior QA Automation Engineer / SDET with 14+ years in software quality, based i
 
 ## Areas of interest
 
-- AI in testing: agents that generate and maintain test code, test data generation, analysis of test results and flaky tests, and tools such as Testim
+- AI in testing
 - Performance engineering
 - Contract testing
 - Quality strategy
