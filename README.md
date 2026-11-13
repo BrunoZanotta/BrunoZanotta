@@ -1,49 +1,21 @@
 <h1 align="center">Bruno Zanotta</h1>
 
-<p align="center">
-  <strong>Senior QA Automation Engineer / SDET</strong><br>
-  Porto Alegre, Brazil · 14+ years in software quality
-</p>
+## About me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-zanotta-qa/">LinkedIn</a>
-</p>
+Senior QA Automation Engineer / SDET with 14+ years in software quality, based in Porto Alegre, Brazil.
 
-Portfolio header for QA automation and SDET work, linked from Fiverr and Upwork. I automate web, API, and mobile tests and run them in CI, including OpenAPI contract checks and AI-assisted test generation.
+## Technical skills & expertise
 
-## Stack
-
-- **Playwright (TypeScript)** and **Cypress**
-- **Java** with **REST Assured** and **TestNG**
-- **k6** for performance testing
-- **Appium** and **BrowserStack** for mobile
-- **OpenAPI** contract testing
-- **Allure**, **ReportPortal**, and **Mochawesome**
-- **CI/CD** with **GitHub Actions** and **Azure DevOps**
-- **AI-assisted testing:** [Testim](https://www.testim.io/), and AI agents for test generation and self-healing, as in [autonomous-testing-ui](https://github.com/BrunoZanotta/autonomous-testing-ui)
-
-## Experience
-
-- **SoftDesign** — Senior Software QA Specialist (current)
-- **Linx** — Built automation frameworks from scratch and set up OpenAPI contract governance
-- **SellersFunding**
-- **Accenture** — Tech lead on the Natura project
-- **DBServer** — Payment acquiring testing
-
-## Projects
-
-- [gorest-cypress-api](https://github.com/BrunoZanotta/gorest-cypress-api) — Cypress API tests with CI.
-- [autonomous-testing-ui](https://github.com/BrunoZanotta/autonomous-testing-ui) — Playwright, Page Object Model, staged CI, and AI agents for test generation and self-healing.
-- [petstore-api-tests](https://github.com/BrunoZanotta/petstore-api-tests) — Java, REST Assured, and OpenAPI contract tests. Allure report: [brunozanotta.github.io/petstore-api-tests](https://brunozanotta.github.io/petstore-api-tests/).
-- [mobile-test](https://github.com/BrunoZanotta/mobile-test) — Appium and Java on BrowserStack.
-
-Also on GitHub: [playwright_release](https://github.com/BrunoZanotta/playwright_release) (Playwright and TypeScript, grouped by release) and [k6-loadtest](https://github.com/BrunoZanotta/k6-loadtest) (k6 load test with checks, thresholds, and an HTML summary).
-
-## Work with me
-
-Available for contract work in QA automation and SDET engagements. [LinkedIn](https://www.linkedin.com/in/bruno-zanotta-qa/).
-
-## Technologies
+- Playwright (TypeScript)
+- Cypress
+- Java with REST Assured and TestNG
+- k6 for performance testing
+- Appium and BrowserStack for mobile
+- OpenAPI contract testing
+- Allure, ReportPortal, and Mochawesome
+- CI/CD with GitHub Actions and Azure DevOps
+- Testim
+- AI-assisted testing: AI agents for test generation and self-healing
 
 <p align="left">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -63,3 +35,10 @@ Available for contract work in QA automation and SDET engagements. [LinkedIn](ht
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img alt="Testim" src="https://img.shields.io/badge/Testim-5B4DFF?style=for-the-badge"/>
 </p>
+
+## Areas of interest
+
+- AI in testing
+- Performance engineering
+- Contract testing
+- Quality strategy
